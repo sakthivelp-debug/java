@@ -46,12 +46,6 @@ case 8:
 System.out.println("augest");
 break;
 }
-case 8:
-{
-System.out.println("augest");
-break;
-}
-
 case 9:
 {
 System.out.println("september");
@@ -70,16 +64,17 @@ System.out.println("november");
 break;
 }
 
-case 8:
+case 12:
 {
 System.out.println("december");
 break;
 }
-default -> System.out.println("invalid");
+
 }
 }
 }
-}
+
+
 
 
 
